@@ -1,0 +1,6 @@
+{
+  "name": "PneumoScan Deep Learning Pipeline",
+  "description": "Clinical-grade deep learning pipeline for automated pneumonia detection in chest radiographs with Grad-CAM localization, DICOM windowing, and AI radiologist reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
